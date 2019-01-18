@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /testignore
-/src/test2.text
+test2.text
 
 
 # testing
