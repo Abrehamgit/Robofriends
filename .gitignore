@@ -3,8 +3,9 @@
 # dependencies
 /node_modules
 /testignore
-test2.text
 
+test2.text
+test3.text
 
 # testing
 /coverage
